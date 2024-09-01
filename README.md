@@ -1,4 +1,4 @@
-## Installation
+# Installation
 
 Clone the repository:
 ```bash
@@ -7,13 +7,13 @@ cd TaskMaster
 npm install
 ```
 
-# Run the app:
-# For Android:
+## Run the app:
+### For Android:
 ```bash
 npx react-native run-android
 ```
 
-# For iOS:
+### For iOS:
 ```bash
 npx react-native run-ios
 ```
